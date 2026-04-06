@@ -44,8 +44,6 @@ Foram utilizados gráficos para identificar padrões e relações:
 - 📊 Barplots → comparação entre categorias
 - 📉 Histogramas → distribuição dos dados
 - 📦 Boxplots → identificação de outliers
-- 🔗 Scatterplots → relação entre variáveis
-- 🔥 Heatmap → correlação entre variáveis
 
 ---
 
@@ -62,7 +60,7 @@ Foram utilizados gráficos para identificar padrões e relações:
 - Passageiros que pagaram tarifas mais altas tiveram maior chance de sobreviver.
 
 ### 🎂 Idade
-- Crianças tiveram maior probabilidade de sobrevivência.
+- A maioria dos sobreviventes se concentra nas faixas etárias mais jovens e adultas.
 
 ### 👨‍👩‍👧 Estrutura Familiar
 - Passageiros com famílias pequenas tiveram melhores chances.
@@ -81,7 +79,7 @@ A análise revela que a sobrevivência no Titanic não foi aleatória.
 - Ser mulher
 - Estar na 1ª classe
 - Ter maior poder aquisitivo
-- Ser criança
+- Ser jovem/adulto
 - Estar em grupos familiares pequenos
 
 ---
